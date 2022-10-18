@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-edit {
+  display: flex;
+  padding: 20px;
+  max-width: 100px;
+}
+
+.container-nav {
+position: absolute;
+width: 100vw;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.container-multiple {
+  position: absolute;
+  width: 395.91px;
+  height: 232px;
+  left: 77px;
+  top: 88px;
+}
+
+.group-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
